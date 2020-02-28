@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+consumer_surf_info.py filter=git-crypt diff=git-crypt
+producer_surf_info.py filter=git-crypt diff=git-crypt
+testcase1_producer_surf_info.py filter=git-crypt diff=git-crypt
+testcase2_producer_surf_info.py filter=git-crypt diff=git-crypt
