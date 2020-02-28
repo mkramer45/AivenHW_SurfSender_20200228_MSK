@@ -35,6 +35,10 @@ To install these, open a terminal & enter the following commands:
 Lastly, you will need the SurfSender package itself. Simply download it from this github repository & save it to your disk.
 
 
+# Encryption
+The contents of the github repository has been encrypted using git-crypt. In order to decode the files for practical use, you will need to obtain a gpg key from the author. Please send key requests to surfsendhelp@gmail.com
+
+
 # Getting started
 
 Before running any of the files in the SurfSender package, we need to first get the Zookeeper & Kafka servers running. For additional information on these items, their documentation serves as a great resource (https://kafka.apache.org/). To get both of these running, enter the following commands in a new instance of a terminal. We will first focus on Zookeeper.
